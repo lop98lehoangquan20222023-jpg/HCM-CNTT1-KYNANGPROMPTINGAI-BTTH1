@@ -26,11 +26,17 @@ Công thức:Tổng thu nhập=Thu nhập - Thuế - Chi phí cố định.
 KẾ HOẠCH QUẢN LÝ TÀI CHÍNH CÁ NHÂN
 I. DỮ LIỆU ĐẦU VÀO
 Hạng mục	Số tiền
+
 Thu nhập hàng tháng	15.000.000 VNĐ
+
 Thuế	500.000 VNĐ
+
 Khoản trả nợ tối thiểu	2.500.000 VNĐ
+
 Chi phí cố định	4.500.000 VNĐ
+
 Mục tiêu tiết kiệm	20%
+
 Mục tiêu tiết kiệm trong 1 năm	50.000.000 VNĐ
 
 Mục tiêu tài chính:
